@@ -1,0 +1,11 @@
+﻿  3DRacer.cpp
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(161): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(162): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(164): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(240): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(241): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ramimorrar\documents\visual studio 2017\vs c++ projects\3dracer\3dracer\3dracer.cpp(242): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  3DRacer.vcxproj -> C:\Users\RamiMorrar\Documents\Visual Studio 2017\VS C++ Projects\3DRacer\Debug\3DRacer.exe
